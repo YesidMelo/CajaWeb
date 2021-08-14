@@ -1,0 +1,24 @@
+{
+  "name": "caja",
+  "version": "1.0.0",
+  "description": "Contendra la informacion relevante de los dioses con la porqueria que se ha registrado en colombia a lo largo de los años",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YesidMelo/CajaWeb.git"
+  },
+  "keywords": [
+    "Hefesto",
+    "Caja",
+    "Pandora"
+  ],
+  "author": "Hefesto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YesidMelo/CajaWeb/issues"
+  },
+  "homepage": "https://github.com/YesidMelo/CajaWeb#readme"
+}
